@@ -60,8 +60,6 @@ The model is trained using gradient descent, and the MSE for each epoch is print
 The script prints the MSE for each epoch and shows an animation of the training process, illustrating how the regression line converges to the best fit line over time.
 
 ```
-plaintext
-
 Mean Square Error for each epoch
 Epoch 0: MSE=...
 Epoch 1: MSE=...
